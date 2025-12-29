@@ -1,0 +1,9 @@
+{
+  "name": "Ph Transparency Portal - Supreme Multicast Edition",
+  "description": "Infinite Merging AI IntelCore Engine for all PH Agencies. Multimodal Gemini Flash Analysis with BlinkRenderer Pro. Managed on Vertex AI, Firebase, and Google Cloud Run. Developed by Raymund De Vera Ico.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
